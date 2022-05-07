@@ -1,0 +1,4 @@
+This project comes from the "Monitoring and blocking the bittorrent monitoring spies" study (performed between 2014 and 2018), which took some intriging directions, the public part of the study is here :
+https://gist.github.com/Ayms/79bdfc6ba747fb49503d ) an unexpected side effect is to unveal how to deanonymize peers that are using a VPN, which can also be combined to deanonymize them when they are using/multiplying other methods to hide and paradoxically the more they try to hide the better they can get caught
+
+That's not theoretical/academic work and has been tested, this project is for sale, contact: PGP Key fingerprint (aymeric peersm com): 65EF AE3D 973F D36A AB25 1225 2A1D 7B34 2627 AC39
